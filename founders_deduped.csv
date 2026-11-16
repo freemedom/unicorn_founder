@@ -2,9 +2,9 @@
 Daniela Amodei,en:daniela amodei,安思卓（confirmed_founder）,学士,加州大学圣克鲁兹分校,B.A. in literature,人文社科与法学,与创立的先后不明,,,https://news.ucsc.edu/2026/04/alumna-and-anthropic-co-founder-daniela-amodei-and-civil-rights-activist-dolores-huerta-named-in-times-100-most-influential-people-of-2026/
 Dario Amodei,en:dario amodei,安思卓（confirmed_founder）,博士,普林斯顿大学,Physics,其他理工,与创立的先后不明,,,https://dataspace.princeton.edu/handle/88435/dsp013f462544k
 埃隆·马斯克（Elon Musk）,zh:埃隆·马斯克,OpenAI（confirmed_founder）；神经链接（confirmed_founder）,学士,宾夕法尼亚大学,B.A. in Physics; B.S. in Business,专业不明,与创立的先后不明,,宾夕法尼亚大学物理学文学士与沃顿商学院商学理学士完成先后不明。两所学院同属宾夕法尼亚大学，学校次数只计这一所。,https://www.sec.gov/Archives/edgar/data/1318605/000110465925090866/tm252289-12_def14a.htm
-Greg Brockman,en:greg brockman,OpenAI（confirmed_founder）,未核实,,,不适用,不适用,,访谈只说两次退学，未写学校和是否高等教育。,
+Greg Brockman,en:greg brockman,OpenAI（confirmed_founder）,未完成高等教育,哈佛大学; 麻省理工学院,computer science,计算机与电子,与创立的先后不明,,先在哈佛读计算机科学，后转入麻省理工并退学；两所均未完成，不把这两所分开计入。个人博客亦写始于哈佛并转入麻省理工后离开学校。,https://venturebeat.com/business/openai-cofounder-greg-brockman-on-the-transformative-potential-of-artificial-general-intelligence
 Ilya Sutskever,en:ilya sutskever,OpenAI（confirmed_founder）；SSI（confirmed_founder）,博士,多伦多大学,Computer Science,计算机与电子,早于或同年创立,,,https://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf
-Sam Altman,en:sam altman,OpenAI（confirmed_founder）,未核实,,,不适用,不适用,,,
+Sam Altman,en:sam altman,OpenAI（confirmed_founder）,未完成高等教育,斯坦福大学,computer science,计算机与电子,早于或同年创立,,2005年从斯坦福计算机专业退学，早于2015年创立OpenAI。荣誉博士不计入。,https://fortune.com/2024/09/19/sam-altman-stanford-dropout-loopt-risks-advice/
 Wojciech Zaremba,en:wojciech zaremba,OpenAI（confirmed_founder）,博士,纽约大学,Computer Science,计算机与电子,晚于创立,,计算机博士论文署期2016年5月，晚于OpenAI 2015年12月创立,https://cs.nyu.edu/media/publications/zaremba_wojciech.pdf
 张一鸣（Yiming Zhang）,zh:张一鸣,字节跳动（confirmed_founder）,学士,南开大学,Software Engineering,计算机与电子,与创立的先后不明,,,https://web.archive.org/web/20190120014146/https://www.bytedance.com/
 John Collison,en:john collison,斯特里普（confirmed_founder）,未完成高等教育,哈佛大学,,专业不明,与创立的先后不明,,,https://www.cbsnews.com/news/fintech-shaking-up-the-financial-industry/
@@ -14,7 +14,7 @@ Andy Konwinski,en:andy konwinski,数据砖（confirmed_founder）；Perplexity A
 Ion Stoica,en:ion stoica,数据砖（confirmed_founder）,博士,卡内基梅隆大学,Electrical and Computer Engineering,计算机与电子,早于或同年创立,,,http://reports-archive.adm.cs.cmu.edu/anon/2000/CMU-CS-00-176.pdf
 Matei Zaharia,en:matei zaharia,数据砖（confirmed_founder）,博士,加州大学伯克利分校,Computer Science,计算机与电子,早于或同年创立,,,https://people.eecs.berkeley.edu/~matei/cv.pdf
 Patrick Wendell,en:patrick wendell,数据砖（confirmed_founder）,硕士,加州大学伯克利分校,Computer Science,计算机与电子,早于或同年创立,,,https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/Archive/EECS-2013-79.pdf
-辛湜（Reynold Xin）,zh:辛湜,数据砖（confirmed_founder）,未核实,,,不适用,不适用,,任务名单写作“辛湎”；访谈原句为“辛湜（英文名Reynold Xin）”,
+辛湜（Reynold Xin）,zh:辛湜,数据砖（confirmed_founder）,博士,加州大学伯克利分校,Computer Science,计算机与电子,与创立的先后不明,,同一来源另写多伦多大学工程科学BASc（0T8+PEY），低于已记录博士，不另计。博士年份页面未写。,https://engsci.utoronto.ca/experience/esec/esec-2021-home/speakers/speaker-reynold-xin/
 Nikolay Storonsky,en:nikolay storonsky,睿思（confirmed_founder）,硕士,莫斯科物理技术学院; 新经济学院,Applied Physics and Mathematics; Economics,专业不明,与创立的先后不明,,两个硕士完成先后不明：莫斯科物理技术学院应用物理与数学，新经济学院经济学。学校次数在汇总时不把这两所分开计入。,https://assets.revolut.com/pdf/Revolut%20Ltd%20Annual%20Report%20YE%202020.pdf
 Vlad Yatsenko,en:vlad yatsenko,睿思（confirmed_founder）,硕士,基辅莫希拉学院国立大学,Computer Science,计算机与电子,与创立的先后不明,,,https://assets.revolut.com/pdf/Revolut%20Ltd%20Annual%20Report%20YE%202020.pdf
 赵长鹏（Changpeng Zhao）,zh:赵长鹏,币安（confirmed_founder）,未核实,,,不适用,不适用,,,
@@ -24,34 +24,34 @@ Brian Schimpf,en:brian schimpf,安杜里尔（confirmed_founder）,学士,康奈
 Matt Grimm,en:matt grimm,安杜里尔（confirmed_founder）,硕士,康奈尔大学,Systems Engineering,其他理工,与创立的先后不明,,,https://www.anduril.com/anduril-leadership
 Palmer Luckey,en:palmer luckey,安杜里尔（confirmed_founder）,未完成高等教育,加州州立大学长滩分校,,专业不明,早于或同年创立,,领导页写他为做 Oculus 从加州州立大学长滩分校退学，Anduril 创立于 2017 年。另就读 Golden West College 与 Long Beach City College。,https://www.anduril.com/anduril-leadership
 Trae Stephens,en:trae stephens,安杜里尔（confirmed_founder）,未核实,,,不适用,不适用,,,
-Arvid Lunnemark,en:arvid lunnemark,Anysphere（confirmed_founder）,未核实,,,不适用,不适用,,麻省理工学院新闻剪报拼作Arvid Lunnemar,
-Michael Truell,en:michael truell,Anysphere（confirmed_founder）,未核实,,,不适用,不适用,,,
-Sualeh Asif,en:sualeh asif,Anysphere（confirmed_founder）,未核实,,,不适用,不适用,,,
-Aman Sanger,en:aman sanger,Anysphere（confirmed_founder）,未核实,,,不适用,不适用,,,
+Arvid Lunnemark,en:arvid lunnemark,Anysphere（confirmed_founder）,学士,麻省理工学院,,专业不明,与创立的先后不明,,福布斯学历栏未写专业。领英学历行被遮挡，Crunchbase打开超时。,https://www.forbes.com/profile/arvid-lunnemark/
+Michael Truell,en:michael truell,Anysphere（confirmed_founder）,学士,麻省理工学院,computer science and mathematics,专业不明,与创立的先后不明,,一个理学士同时主修计算机科学与数学，分属两类，不归入单一专业类。,https://en.wikipedia.org/wiki/Michael_Truell
+Sualeh Asif,en:sualeh asif,Anysphere（confirmed_founder）,学士,麻省理工学院,,专业不明,与创立的先后不明,,福布斯学历栏未写专业。,https://www.forbes.com/profile/sualeh-asif/
+Aman Sanger,en:aman sanger,Anysphere（confirmed_founder）,学士,麻省理工学院,computer science and mathematics,专业不明,与创立的先后不明,,维基信息框写MIT（BS），麻省理工校友页记为’22。福布斯标题写MIT Dropouts，正文只写在麻省理工相识，没有退学原句。计算机与数学分属两类，专业不明。,https://en.wikipedia.org/wiki/Aman_Sanger
 梁文锋（Liang Wenfeng）,zh:梁文锋,深度求索（confirmed_founder）,硕士,浙江大学,信息与通信工程,计算机与电子,早于或同年创立,,,http://www.iice.zju.edu.cn/redir.php?catalog_id=19294&object_id=31184
-毛文超,zh:毛文超,小红书（confirmed_founder）,未核实,,,不适用,不适用,,,
-瞿芳,zh:瞿芳,小红书（confirmed_founder）,未核实,,,不适用,不适用,,,
+毛文超,zh:毛文超,小红书（confirmed_founder）,学士,上海交通大学,,专业不明,早于或同年创立,,交大页写机械与动力工程学院2007届本科校友，未写具体专业。,https://news.sjtu.edu.cn/ztzl_xyfc/20200702/126907.html
+瞿芳,zh:瞿芳,小红书（confirmed_founder）,学士,北京外国语大学,国际新闻与传播,人文社科与法学,早于或同年创立,,,https://ir.xiaopeng.com/zh-hans/board-member/qufangnushi
 Chris Larsen,en:chris larsen,瑞波（confirmed_founder）,学士,旧金山州立大学,"International Business, Accounting",商科经济金融,早于或同年创立,,诉讼文件另列 Jed McCaleb 为创办人，榜上未列，本批不补。,https://alumni.sfsu.edu/alumni/notable-alumni-news/alumni-news/conversation-chris-larsen
 Arthur Britto,en:arthur britto,瑞波（confirmed_founder）,未核实,,,不适用,不适用,,诉讼文件另列 Jed McCaleb 为创办人，榜上未列，本批不补。,
 Melanie Perkins,en:melanie perkins,可画（confirmed_founder）,未完成高等教育,西澳大利亚大学,,专业不明,与创立的先后不明,,创办人姓名不全,https://www.canva.com/newsroom/news/melanie-perkins-21-questions-part-1/
 杰夫·贝佐斯（Jeff Bezos）,zh:杰夫·贝佐斯,蓝色起源（confirmed_founder）；Project Prometheus（confirmed_founder）,学士,普林斯顿大学,electrical engineering and computer science,计算机与电子,早于或同年创立,,,https://engineering.princeton.edu/news/2015/05/01/jeff-bezos-86-honored-liberty-science-center
 Brett Adcock,en:brett adcock,Figure AI（confirmed_founder）,学士,佛罗里达大学,BSBA,商科经济金融,与创立的先后不明,,,https://warrington.ufl.edu/news/ai-is-up-and-walking/
-Vik Bajaj,en:vik bajaj,Project Prometheus（confirmed_founder）,未核实,,,不适用,不适用,,学历只出现在播客节目介绍，不计入主统计。,
+Vik Bajaj,en:vik bajaj,Project Prometheus（confirmed_founder）,博士,麻省理工学院,Chemistry,其他理工,与创立的先后不明,,"论文作者署名为Bajaj, Vikram Singh。化学系哲学博士，专业按化学计入其他理工。创立年缺失，故不比较先后。",https://dspace.mit.edu/entities/publication/918c852f-c252-40b2-9ebf-fa8c69c0b223
 汪滔,zh:汪滔,大疆（confirmed_founder）,硕士,香港科技大学,电子及计算机工程学,计算机与电子,晚于创立,,电子及计算机工程学硕士2011年完成，晚于大疆2006年创立,https://publications.ust.hk/Corporate_Brochure/tc/20/
-陈明永,zh:陈明永,Oppo（confirmed_founder）,未核实,,,不适用,不适用,,,
+陈明永,zh:陈明永,Oppo（confirmed_founder）,学士,浙江大学,电子物理技术,计算机与电子,早于或同年创立,,同一学院另页写1992年毕业于浙江大学电子物理技术专业。按本科计入。,http://www.isee.zju.edu.cn/2021/0305/c56482a2255316/page.htm
 Eric Glyman,en:eric glyman,Ramp（confirmed_founder）,学士,哈佛大学,,专业不明,与创立的先后不明,,,https://ramp.com/blog/ramp-raises-115m-from-stripe-and-d1-to-become-nys-fastest-growing-startup-ever
-Gene Lee,en:gene lee,Ramp（confirmed_founder）,未核实,,,不适用,不适用,,,
+Gene Lee,en:gene lee,Ramp（confirmed_founder）,学士,芝加哥大学,Psychology,人文社科与法学,与创立的先后不明,,,https://newyorktech.com/people/gene-lee
 Karim Atiyeh,en:karim atiyeh,Ramp（confirmed_founder）,硕士,哈佛大学,Computer Science,计算机与电子,与创立的先后不明,,,https://ramp.com/authors/karim-atiyeh
 Daniel Gross,en:daniel gross,SSI（confirmed_founder）,未核实,,,不适用,不适用,,,
 Daniel Levy,en:daniel levy,SSI（confirmed_founder）,博士,斯坦福大学,Computer Science,计算机与电子,早于或同年创立,,,https://purl.stanford.edu/nv133bt5905
 沈炜（Shen Wei）,zh:沈炜,Vivo（confirmed_founder）,未核实,,,不适用,不适用,,,
-蔡浩宇,zh:蔡浩宇,米哈游（confirmed_founder）,未核实,,,不适用,不适用,,公司资料对成立年份有2011与2012两种表述,
+蔡浩宇,zh:蔡浩宇,米哈游（confirmed_founder）,硕士,上海交通大学,计算机应用技术,计算机与电子,晚于创立,,同一页写明另有2009届计算机科学与技术专业本科；并写米哈游成立于2011年。,https://news.sjtu.edu.cn/jdyw/20230725/186516.html
 刘伟,zh:刘伟,米哈游（confirmed_founder）,硕士,上海交通大学,通信与信息系统,计算机与电子,与创立的先后不明,,硕士记载为2009级入学年级，未见毕业年份；公司资料对成立年份有2011与2012两种表述,https://news.sjtu.edu.cn/jdyw/20260404/221186.html
-罗宇皓,zh:罗宇皓,米哈游（confirmed_founder）,未核实,,,不适用,不适用,,公司资料对成立年份有2011与2012两种表述,
+罗宇皓,zh:罗宇皓,米哈游（confirmed_founder）,硕士,上海交通大学,,专业不明,晚于创立,,计算机学院页面写2013届本硕校友，未写专业。辅导报告写上海交通大学硕士研究生学历。公司成立有2011与2012两种表述，2013年均晚于二者。,https://www.cs.sjtu.edu.cn/zmxy-cyj.html
 Pavel Durov,en:pavel durov,Telegram（confirmed_founder）,未核实,,,不适用,不适用,,,
 Jeff Denworth,en:jeff denworth,VAST Data（confirmed_founder）,学士,特伦顿州立学院,Business Administration,商科经济金融,与创立的先后不明,,,https://www.vastdata.com/about
 Renen Hallak,en:renen hallak,VAST Data（confirmed_founder）,硕士,,Computer Science,计算机与电子,与创立的先后不明,,,https://www.vastdata.com/about
-Shachar Fienblit,en:shachar fienblit,VAST Data（confirmed_founder）,未核实,,,不适用,不适用,,,
+Shachar Fienblit,en:shachar fienblit,VAST Data（confirmed_founder）,学士,海法大学,computer science,计算机与电子,与创立的先后不明,,,https://www.storagenewsletter.com/2017/02/06/cto-just-leaving-kaminario-to-join-vast-data/
 Alon Horev,en:alon horev,VAST Data（confirmed_founder）,未核实,,,不适用,不适用,,,
 朱一明,zh:朱一明,长鑫科技（backfilled_founder）,硕士,清华大学; 纽约州立大学石溪分校,,专业不明,与创立的先后不明,,两个硕士完成先后不明：清华大学与纽约州立大学石溪分校。学校出现次数在汇总时不把这两所分开计入。,http://vip.stock.finance.sina.com.cn/corp/view/vISSUE_RaiseExplanationDetail.php?id=2627922&stockid=603986
 程维（Will Wei Cheng）,zh:程维,滴滴（confirmed_founder）,学士,北京化工大学,administration management,商科经济金融,早于或同年创立,,,https://ir.didiglobal.com/leadership-governance/our-team
@@ -59,14 +59,14 @@ Kenneth C. Griffin,en:kenneth c. griffin,Citadel Securities（confirmed_founder�
 Tarek Mansour,en:tarek mansour,Kalshi（confirmed_founder）,硕士,麻省理工学院,Engineering,其他理工,早于或同年创立,,,https://news.kalshi.com/p/tarek-mansour
 Luana Lopes Lara,en:luana lopes lara,Kalshi（confirmed_founder）,硕士,麻省理工学院,Engineering,其他理工,与创立的先后不明,,,https://news.kalshi.com/p/luana-lopes-lara
 Hamdi Ulukaya,en:hamdi ulukaya,Chobani（confirmed_founder）,硕士,纽约州立大学奥尔巴尼分校,,专业不明,与创立的先后不明,,,https://www.morrisville.edu/news/founder-of-greek-yogurt-heavyweight-chobani-will-address-morrisville-state-college-graduates
-Jesse Powell,en:jesse powell,Kraken（confirmed_founder）,未核实,,,不适用,不适用,,创办人姓名不全,
+Jesse Powell,en:jesse powell,Kraken（confirmed_founder）,学士,加利福尼亚州立大学萨克拉门托分校,Philosophy with a concentration in Law and Ethics,人文社科与法学,与创立的先后不明,,领英只写专业和学校，未写学位层次。采用写明学士的报道。,https://coinpaper.com/2540/jesse-powell-net-worth-how-rich-is-the-founder-of-kraken-crypto-exchange
 杨植麟（Zhilin Yang）,zh:杨植麟,月之暗面（confirmed_founder）,博士,卡内基梅隆大学,Language and Information Technology,计算机与电子,与创立的先后不明,,,https://lti.cs.cmu.edu/people/alumni/alumni-2019/yang-zhilin.html
-Aravind Srinivas,en:aravind srinivas,Perplexity AI（confirmed_founder）,未核实,,,不适用,不适用,,,
-Denis Yarats,en:denis yarats,Perplexity AI（confirmed_founder）,未核实,,,不适用,不适用,,,
-Johnny Ho,en:johnny ho,Perplexity AI（confirmed_founder）,未核实,,,不适用,不适用,,,
+Aravind Srinivas,en:aravind srinivas,Perplexity AI（confirmed_founder）,博士,加州大学伯克利分校,CS,计算机与电子,早于或同年创立,,同一页只写曾在IIT Madras学习，未写该校已完成学位。,https://engineering.berkeley.edu/news/2025/03/berkeley-alum-wants-to-make-the-planet-smarter/
+Denis Yarats,en:denis yarats,Perplexity AI（confirmed_founder）,博士,纽约大学,,专业不明,与创立的先后不明,,福布斯只写Ph.D.和学校，未写专业与年份。,https://www.forbes.com/profile/denis-yarats/
+Johnny Ho,en:johnny ho,Perplexity AI（confirmed_founder）,学士,哈佛大学,,专业不明,与创立的先后不明,,福布斯写Bachelor of Arts/Science，未写具体专业与年份。,https://www.forbes.com/profile/johnny-ho/
 Gundbert Scherf,en:gundbert scherf,Helsing（confirmed_founder）,未核实,,,不适用,不适用,,,
-Niklas Köhler,en:niklas köhler,Helsing（confirmed_founder）,未核实,,,不适用,不适用,,,
-Torsten Reil,en:torsten reil,Helsing（confirmed_founder）,未核实,,,不适用,不适用,,,
+Niklas Köhler,en:niklas köhler,Helsing（confirmed_founder）,硕士,慕尼黑大学,physics,其他理工,与创立的先后不明,,,https://www.forbes.com/profile/niklas-kohler/
+Torsten Reil,en:torsten reil,Helsing（confirmed_founder）,硕士,萨塞克斯大学,Evolutionary and Adaptive Systems,其他,与创立的先后不明,卫报写其创办NaturalMotion前在牛津大学动物学系攻读复杂系统博士，未写该博士完成。,另有牛津大学生物学学士，低于上述硕士。页面未写硕士年份。,https://www.theguardian.com/changingmediasummit/changing-media-summit-speakers-2011-torsten-reil
 Andrey Khusid,en:andrey khusid,Miro（confirmed_founder）,硕士,俄罗斯国立高等经济大学,Public and Municipal Administration,人文社科与法学,与创立的先后不明,,创办人姓名不全,https://perm.hse.ru/en/news/172725480.html
 Alex Bouaziz,en:alex bouaziz,Deel（confirmed_founder）,硕士,麻省理工学院,Civil and Environmental Engineering,其他理工,早于或同年创立,,,https://www.deel.com/about/
 王硕（Shuo Wang）,zh:王硕,Deel（confirmed_founder）,学士,麻省理工学院,Mechanical Engineering and Robotics,其他理工,早于或同年创立,,,https://www.deel.com/about/
@@ -76,12 +76,12 @@ Bret Taylor,en:bret taylor,Sierra（confirmed_founder）,硕士,斯坦福大学,
 Clay Bavor,en:clay bavor,Sierra（confirmed_founder）,学士,普林斯顿大学,computer science,计算机与电子,与创立的先后不明,,,https://ai.princeton.edu/news/2025/ai-lab-launches-talk-series-featuring-sierra-perplexity-co-founders
 Qasar Younis,en:qasar younis,Applied Intuition（confirmed_founder）,学士,凯特林大学,mechanical engineering,其他理工,与创立的先后不明,,另有哈佛商学院 MBA，不计入。,https://cdn.sanity.io/files/a86leg7v/production/c193a9cb06c9856a93e905a907912803ee4c35ba.pdf
 Peter Ludwig,en:peter ludwig,Applied Intuition（confirmed_founder）,硕士,密歇根大学,Computer Science,计算机与电子,与创立的先后不明,,,https://cdn.sanity.io/files/a86leg7v/production/c193a9cb06c9856a93e905a907912803ee4c35ba.pdf
-Aaron Katz,en:aaron katz,ClickHouse（confirmed_founder）,未核实,,,不适用,不适用,,Index Ventures 文章只写他就读加州大学戴维斯分校管理经济学，未写已取得学位。,
+Aaron Katz,en:aaron katz,ClickHouse（confirmed_founder）,学士,加州大学戴维斯分校,B.S. in Managerial Economics,商科经济金融,早于或同年创立,,Index Ventures稿写就读管理经济学，并写After graduating in 1998，未写学士。学士层次据Equilar转载的Elastic N.V. 2019-08-27高管简介；该网址不是监管文件原件。,https://people.equilar.com/bio/person/aaron-katz-clickhouse/20007316
 Alexey Milovidov,en:alexey milovidov,ClickHouse（confirmed_founder）,未核实,,,不适用,不适用,,,
 Yury Izrailevsky,en:yury izrailevsky,ClickHouse（confirmed_founder）,未核实,,,不适用,不适用,,,
-Jason Citron,en:jason citron,迪斯科德（confirmed_founder）,未核实,,,不适用,不适用,,,
-Stanislav Vishnevskiy,en:stanislav vishnevskiy,迪斯科德（confirmed_founder）,未核实,,,不适用,不适用,,,
-Josh Payne,en:josh payne,Nscale（confirmed_founder）,未核实,,,不适用,不适用,,,
+Jason Citron,en:jason citron,迪斯科德（confirmed_founder）,学士,富尔赛尔大学,Game Development,其他,早于或同年创立,,毕业年2004见学校名人堂页面Graduation Year: 2004，该页未写学士。游戏开发不归入计算机与电子。,https://www.fullsail.edu/about/full-sail-stories/full-sail-university-game-degree-graduates-where-have-they-worked
+Stanislav Vishnevskiy,en:stanislav vishnevskiy,迪斯科德（confirmed_founder）,未完成高等教育,加州州立大学北岭分校,software engineering,计算机与电子,与创立的先后不明,,同一访谈说他在软件工程课上认识同学，并说没有读完、已经退学。没有已完成学位的年份。,https://podscan.fm/podcasts/the-gaming-founders-podcast/episodes/pivoting-to-survive-stan-vishnevskiys-journey-on-founding-discord
+Josh Payne,en:josh payne,Nscale（confirmed_founder）,高中及以下,,,,与创立的先后不明,,纽约时报写他离开中学后进煤矿，没有大学经历。未写出中学名称，不计入学校次数。,https://www.nytimes.com/2026/03/09/business/nscale-ai-data-center-boom.html
 Christian Hecker,en:christian hecker,Trade Republic（confirmed_founder）,学士,慕尼黑路德维希-马克西米利安大学,économie d'entreprise; philosophie,专业不明,与创立的先后不明,,两门学士完成先后不明：企业管理、哲学,https://assets.traderepublic.com/assets/files/FR/Trade_Republic_Dossier_De_Presse.pdf
 Thomas Pischke,en:thomas pischke,Trade Republic（confirmed_founder）,硕士,慕尼黑路德维希-马克西米利安大学,"sciences physiques, spécialisé en informatique quantique",其他理工,与创立的先后不明,,,https://assets.traderepublic.com/assets/files/FR/Trade_Republic_Dossier_De_Presse.pdf
 Marco Cancellieri,en:marco cancellieri,Trade Republic（confirmed_founder）,未核实,,,不适用,不适用,,公司简介只写其在慕尼黑修读计算机，未说明已完成学位,
@@ -91,47 +91,47 @@ Guillaume Lample,en:guillaume lample,Mistral AI（confirmed_founder）,博士,�
 Timothée Lacroix,en:timothée lacroix,Mistral AI（confirmed_founder）,博士,巴黎东大学,Informatique,计算机与电子,早于或同年创立,,,https://www.idref.fr/24853680X
 Deepak Pathak,en:deepak pathak,Skild AI（confirmed_founder）,博士,加州大学伯克利分校,,专业不明,与创立的先后不明,,另有印度理工学院坎普尔分校计算机科学学士。博士专业与完成年未见。,https://www.cs.cmu.edu/~dpathak/
 Abhinav Gupta,en:abhinav gupta,Skild AI（confirmed_founder）,博士,马里兰大学帕克分校,Computer Science,计算机与电子,与创立的先后不明,,,http://www.cs.cmu.edu/~abhinavg/papers/abhinav_thesis.pdf
-Ed Park,en:ed park,Devoted Health（confirmed_founder）,未核实,,,不适用,不适用,,访谈称毕业于哈佛计算机专业，未写学位等级。,
+Ed Park,en:ed park,Devoted Health（confirmed_founder）,学士,哈佛大学,bachelor of arts in computer science,计算机与电子,与创立的先后不明,,波士顿环球报人物简介写明文学士与计算机科学。未见学位完成年份。,https://www.bostonglobe.com/tech-power-players/year/2023/person/ed-park-algorithmic-justice-league/
 Todd Park,en:todd park,Devoted Health（confirmed_founder）,学士,哈佛学院,economics,商科经济金融,与创立的先后不明,,,https://obamawhitehouse.archives.gov/the-press-office/2015/11/19/statement-todd-park-us-chief-technology-officer-executive-office
-Alex Shevchenko,en:alex shevchenko,Grammarly（confirmed_founder）,未核实,,,不适用,不适用,,另有 University of Toronto School of Management 的 MBA，不计入最高非MBA学位。 学历页是第三方简介，不计入主统计。,
-Dmytro Lider,en:dmytro lider,Grammarly（confirmed_founder）,未核实,,,不适用,不适用,,另有同一学校计算机科学学士。 学历页是第三方简介，不计入主统计。,
-Max Lytvyn,en:max lytvyn,Grammarly（confirmed_founder）,未核实,,,不适用,不适用,,另有 Vanderbilt University 的 MBA，不计入最高非MBA学位。 学历页是第三方简介，不计入主统计。,
-Guillaume Pousaz,en:guillaume pousaz,Checkout.com（confirmed_founder）,未核实,,,不适用,不适用,,公司简介未写学历。,
+Alex Shevchenko,en:alex shevchenko,Grammarly（confirmed_founder）,学士,维也纳国际大学,bachelor of arts,专业不明,与创立的先后不明,,多伦多大学罗特曼管理学院MBA不计入。学士未写专业。未见学士完成年份。,https://www.grammarly.com/press/media-resources/docs/Alex-Shevchenko-Bio.pdf
+Dmytro Lider,en:dmytro lider,Grammarly（confirmed_founder）,硕士,乌克兰国立航空大学,software engineering,计算机与电子,与创立的先后不明,,另有同一校计算机科学学士（cum laude）。公司简介未写硕士完成年份。,https://www.grammarly.com/press/media-resources/docs/Dmytro-Lider-Bio.pdf
+Max Lytvyn,en:max lytvyn,Grammarly（confirmed_founder）,学士,基辅国际基督教大学,bachelor of business administration in management information systems,商科经济金融,与创立的先后不明,,范德堡大学欧文商学院MBA不计入。公司简介未写学士完成年份。,https://www.grammarly.com/press/media-resources/docs/Max-Lytvyn-Bio.pdf
+Guillaume Pousaz,en:guillaume pousaz,Checkout.com（confirmed_founder）,未完成高等教育,洛桑大学高等商业学院,Economics,商科经济金融,与创立的先后不明,,另一篇新闻写他曾在洛桑联邦理工学院修读数学工程，后入读HEC洛桑经济学学士，2005年离开课程。两篇都未写已完成学位。,https://europeanbusinessmagazine.com/guillaume-pousaz-founder-ceo-checkout-com/
 Hayes Barnard,en:hayes barnard,GoodLeap（confirmed_founder）,学士,密苏里大学,Business Management and Marketing,商科经济金融,与创立的先后不明,,创办人姓名不全,https://www.goodleap.com/leadership/hayes-barnard
 Daniel Nadler,en:daniel nadler,OpenEvidence（confirmed_founder）,博士,哈佛大学,,专业不明,与创立的先后不明,,创办人姓名不全,https://www.openevidence.com/about
-Jason Warner,en:jason warner,Poolside（confirmed_founder）,未核实,,,不适用,不适用,,公开学历仅见领英，未采用。,
-Eiso Kant,en:eiso kant,Poolside（confirmed_founder）,未核实,,,不适用,不适用,,公开学历仅见领英，未采用。,
-Grant LaFontaine,en:grant lafontaine,Whatnot（confirmed_founder）,未核实,,,不适用,不适用,,,
-Logan Head,en:logan head,Whatnot（confirmed_founder）,未核实,,,不适用,不适用,,,
+Jason Warner,en:jason warner,Poolside（confirmed_founder）,硕士,伦斯勒理工学院,Computer Science,计算机与电子,早于或同年创立,,另有宾夕法尼亚州立大学计算机科学学士，领英记1995-1999。硕士年份取领英该条目结束年2003。Atlassian新闻稿页面未打开。,https://www.linkedin.com/in/jcw148
+Eiso Kant,en:eiso kant,Poolside（confirmed_founder）,学士,IE大学,business administration,商科经济金融,与创立的先后不明,,领英公开页未显示学位。第三方简介写已完成工商管理学士。未见完成年份。,https://nextomoro.com/eiso-kant/
+Grant LaFontaine,en:grant lafontaine,Whatnot（confirmed_founder）,学士,康奈尔大学,BA in Economics,商科经济金融,与创立的先后不明,,领英公开页教育栏不可读。Slush讲者页写BA in Economics from Cornell。未见学位年份。,https://slush.org/2026-speakers/grant-lafontaine
+Logan Head,en:logan head,Whatnot（confirmed_founder）,学士,蒙大拿大学,Management Information Systems,商科经济金融,与创立的先后不明,,,https://research.contrary.com/company/whatnot
 Luca Ferrari,en:luca ferrari,Bending Spoons（confirmed_founder）,硕士,丹麦技术大学; 帕多瓦大学,Telecommunications Engineering; Electrical & Electronics Engineering,计算机与电子,与创立的先后不明,,两个硕士完成先后不明：丹麦技术大学电信工程，帕多瓦大学电气与电子工程。学校次数在汇总时不把这两所分开计入。,https://bendingspoons.com/documents/financials/2026/Bending%20Spoons%20Final%20Prospectus%20As%20Filed.pdf
 Francesco Patarnello,en:francesco patarnello,Bending Spoons（confirmed_founder）,硕士,丹麦技术大学; 帕多瓦大学,Telecommunications Engineering; Electronics Engineering,计算机与电子,与创立的先后不明,,两个硕士完成先后不明：丹麦技术大学电信工程，帕多瓦大学电子工程。学校次数在汇总时不把这两所分开计入。,https://bendingspoons.com/documents/financials/2026/Bending%20Spoons%20Final%20Prospectus%20As%20Filed.pdf
 Luca Querella,en:luca querella,Bending Spoons（confirmed_founder）,未核实,,,不适用,不适用,,,
 Matteo Danieli,en:matteo danieli,Bending Spoons（confirmed_founder）,硕士,丹麦技术大学; 帕多瓦大学,Telecommunications Engineering,计算机与电子,与创立的先后不明,,两个硕士完成先后不明，招股书两处都写电信工程硕士：丹麦技术大学与帕多瓦大学。学校次数在汇总时不把这两所分开计入。,https://bendingspoons.com/documents/financials/2026/Bending%20Spoons%20Final%20Prospectus%20As%20Filed.pdf
 Tomasz Greber,en:tomasz greber,Bending Spoons（confirmed_founder）,未核实,,,不适用,不适用,,,
-Ankur Jain,en:ankur jain,Bilt Rewards（confirmed_founder）,未核实,,,不适用,不适用,,访谈中称进入Wharton本科并自称Wharton graduate，未写明完成的学位层级。,
-Mati Staniszewski,en:mati staniszewski,ElevenLabs（confirmed_founder）,未核实,,,不适用,不适用,,,
-Piotr Dabkowski,en:piotr dabkowski,ElevenLabs（confirmed_founder）,未核实,,,不适用,不适用,,,
+Ankur Jain,en:ankur jain,Bilt Rewards（confirmed_founder）,学士,沃顿商学院,Economics,商科经济金融,与创立的先后不明,,访谈只称进入沃顿本科并graduate，未写学位层级，不据此定级。本行采用领英写明的理学士。,https://www.linkedin.com/in/ankurjainkairos
+Mati Staniszewski,en:mati staniszewski,ElevenLabs（confirmed_founder）,学士,帝国理工学院,Mathematics,其他理工,与创立的先后不明,,公司作者页只写to study Mathematics at Imperial College London，未写完成学位，故改用维基百科。,https://en.wikipedia.org/wiki/Mati_Staniszewski
+Piotr Dabkowski,en:piotr dabkowski,ElevenLabs（confirmed_founder）,硕士,剑桥大学,,专业不明,早于或同年创立,,公司作者页只写studied for an MPhil at the University of Cambridge，未写授予学位。维基百科未写该硕士的专业。另有牛津大学工程学士，低于这一硕士。,https://en.wikipedia.org/wiki/Piotr_D%C4%85bkowski
 Winston Weinberg,en:winston weinberg,Harvey（confirmed_founder）,博士,南加州大学古尔德法学院,Juris Doctor,人文社科与法学,与创立的先后不明,,,https://www.harvey.ai/blog/author/winston-weinberg
-Gabriel Pereyra,en:gabriel pereyra,Harvey（confirmed_founder）,未核实,,,不适用,不适用,,公司原文作Gabe Pereyra。,
+Gabriel Pereyra,en:gabriel pereyra,Harvey（confirmed_founder）,学士,南加州大学,Computer Science,计算机与电子,与创立的先后不明,公司页写pursued a PhD in Neuroscience at the University of Oxford，未完成，不抬高学历。,公司原文也作Gabe Pereyra。,https://www.harvey.ai/blog/author/gabe-pereyra
 张昌武,zh:张昌武,蓝箭航天（confirmed_founder）,未核实,,,不适用,不适用,,访谈称其毕业于清华大学并获得MBA学位，未写明非MBA学位，不能记为仅MBA。,
-吴树范,zh:吴树范,蓝箭航天（confirmed_founder）,未核实,,,不适用,不适用,,,
+吴树范,zh:吴树范,蓝箭航天（confirmed_founder）,博士,南京航空航天大学,飞行控制,其他理工,早于或同年创立,,同一篇写2015年联合创建蓝箭航天。学院教育背景页同时列南航博士、硕士、学士，最高为博士。,http://guoqing.china.com.cn/2025-05/22/content_117890047.htm
 王建蒙,zh:王建蒙,蓝箭航天（confirmed_founder）,未核实,,,不适用,不适用,,,
 Ivan Zhao,en:ivan zhao,Notion Labs（confirmed_founder）,未核实,,,不适用,不适用,,公司博客另列 Simon Last 为联合创始人，榜上未列，本批不补。,
-Kari Kivela,en:kari kivela,Oura（confirmed_founder）,未核实,,,不适用,不适用,,官网原文拼作Kari Kivelä。,
+Kari Kivela,en:kari kivela,Oura（confirmed_founder）,硕士,奥卢大学,Industrial Engineering and Management,其他理工,早于或同年创立,,领英学历栏被遮挡。第三方简介写明学校、硕士和专业，与另一篇只写在芬兰取得该硕士的简介不冲突。,https://www.edgechat.ai/kari-kivela
 Markku Koskela,en:markku koskela,Oura（confirmed_founder）,未核实,,,不适用,不适用,,,
 Petteri Lahtela,en:petteri lahtela,Oura（confirmed_founder）,未核实,,,不适用,不适用,,,
-Karol Hausman,en:karol hausman,Physical Intelligence（confirmed_founder）,未核实,,,不适用,不适用,,,
+Karol Hausman,en:karol hausman,Physical Intelligence（confirmed_founder）,博士,南加州大学,Computer Science,计算机与电子,与创立的先后不明,,个人履历另有慕尼黑工业大学机器人硕士、华沙工业大学机电一体化学位，以及华沙大学哲学课程一年，均不高于这一博士。创立年未提供。,https://karolhausman.github.io/cv.pdf
 Sergey Levine,en:sergey levine,Physical Intelligence（confirmed_founder）,博士,斯坦福大学,Computer Science,计算机与电子,与创立的先后不明,,投资机构页面另列 Adnan Esmail、Quan Vuong 为创办人，榜上未列，本批不补。,https://people.eecs.berkeley.edu/~svlevine/SergeyLevineCV.pdf
 Chelsea Finn,en:chelsea finn,Physical Intelligence（confirmed_founder）,博士,加州大学伯克利分校,Electrical Engineering and Computer Science,计算机与电子,与创立的先后不明,,,https://ai.stanford.edu/~cbfinn/_files/cv.pdf
-Brian Ichter,en:brian ichter,Physical Intelligence（confirmed_founder）,未核实,,,不适用,不适用,,,
+Brian Ichter,en:brian ichter,Physical Intelligence（confirmed_founder）,博士,斯坦福大学,Aeronautics and Astronautics,其他理工,与创立的先后不明,,,https://purl.stanford.edu/xm179nc3440
 Lachy Groom,en:lachy groom,Physical Intelligence（confirmed_founder）,未核实,,,不适用,不适用,,榜上原文为Lachy Groom*，星号不是剔除理由。,
 Ric Elias,en:ric elias,Red Ventures（confirmed_founder）,未核实,,,不适用,不适用,,公司官网称毕业于波士顿学院并取得哈佛商学院MBA，未写明波士顿学院学位层级。创办人姓名不全。,
 陆风,zh:陆风,万得（confirmed_founder）,未核实,,,不适用,不适用,,起步称从两个人开始，另一人未点名，创办人姓名不全。校友会称1991年毕业于西北轻工业学院工业设计专业，未写明学位层级。,
 Joe Lau,en:joe lau,Alchemy（confirmed_founder）,硕士,斯坦福大学,Computer Science,计算机与电子,与创立的先后不明,,,https://www.alchemy.com/company
 Nikil Viswanathan,en:nikil viswanathan,Alchemy（confirmed_founder）,硕士,斯坦福大学,Computer Science,计算机与电子,与创立的先后不明,,,https://www.alchemy.com/company
-Brian Long,en:brian long,Attentive（confirmed_founder）,未核实,,,不适用,不适用,,创办人姓名不全。,
+Brian Long,en:brian long,Attentive（confirmed_founder）,学士,宾夕法尼亚大学,,专业不明,与创立的先后不明,纽约大学斯特恩商学院MBA读了一半后退学创业。,播客嘉宾简介，未写专业，也未写学士年份。,https://www.mission.org/up-next-in-commerce/making-messaging-matter-how-brands-can-win-with-sms
 Osman Kibar,en:osman kibar,Biosplice Therapeutics（confirmed_founder）,博士,加州大学圣迭戈分校,Biophotonics and Optoelectronics,其他理工,与创立的先后不明,,圣迭戈商业日报写明该公司2008年以Samumed创立，2021年更名为Biosplice。,https://biosplice.com/board-of-directors/default.aspx
-Steven Hao,en:steven hao,Cognition AI（confirmed_founder）,未核实,,,不适用,不适用,,,
+Steven Hao,en:steven hao,Cognition AI（confirmed_founder）,学士,麻省理工学院,computer science and mathematics,专业不明,早于或同年创立,,"同一学士含计算机科学与数学，分属两类，不拆成两个学位。新闻写明信息来自其领英。AlphaStar人员页同样列出B.S. in Computer Science and Mathematics, MIT (2018)。未见学校或公司原文，记弱来源。",https://e.vnexpress.net/news/tech/personalities/30-year-old-founder-of-ai-startup-cognition-becomes-youngest-billionaire-in-america-5121774.html
 Ben Lamm,en:ben lamm,Colossal Biosciences（confirmed_founder）,学士,贝勒大学,BBA,商科经济金融,与创立的先后不明,,创办人姓名不全,https://bbr.baylor.edu/ben-lamm-bba-2004/
 George Church,en:george church,Colossal Biosciences（confirmed_founder）,博士,哈佛大学,Biochemistry & Molecular Biology,生命科学与医学,与创立的先后不明,,创办人姓名不全,https://arep.med.harvard.edu/gmc/invent.html
 Chase Lochmiller,en:chase lochmiller,Crusoe（confirmed_founder）,硕士,斯坦福大学,computer science,计算机与电子,与创立的先后不明,,,https://www.sbs.ox.ac.uk/news/flare-entrepreneurship
@@ -146,30 +146,30 @@ Surya Midha,en:surya midha,Mercor（confirmed_founder）,未完成高等教育,�
 Marc-Alexander Christ,en:marc-alexander christ,SumUp（confirmed_founder）,硕士,马斯特里赫特大学,International Business,商科经济金融,与创立的先后不明,,发布稿另列 Stefan Jeschonnek、Jan Deepen、Daniel Klein 为创办人，榜上未列，本批不补。马斯特里赫特大学另有 Doctorandus，与 MA 同属硕士级，完成先后不明，学校仍是同一所。,https://www.uni-sofia.bg/index.php/eng/the_university/faculties/faculty_of_economics_and_business_administration/news/sumup_representatives_with_a_lecture_on_m_a_deals_in_europe_practical_aspects
 Tiago Paiva,en:tiago paiva,Talkdesk（confirmed_founder）,硕士,,engineering,其他理工,与创立的先后不明,,,https://www.talkdesk.com/blog/tiago-paiva-dreamer-became-doer/
 Will Ahmed,en:will ahmed,Whoop（confirmed_founder）,学士,哈佛大学,economics and government,商科经济金融,早于或同年创立,,哈佛新闻写他在毕业学年于哈佛创新实验室创立 WHOOP，学位为 A.B. '12。,https://seas.harvard.edu/news/how-whoop-founder-will-ahmed-found-his-voice-entrepreneur
-Alexander Gerko,en:alexander gerko,XTX Markets（confirmed_founder）,未核实,,,不适用,不适用,,公司披露页仅称Dr.，未见授予学校、专业与年份。,
-Charles Zhengyao Lu,en:charles zhengyao lu,瑞幸咖啡（backfilled_founder）,未核实,,,不适用,不适用,,创办人姓名不全,
+Alexander Gerko,en:alexander gerko,XTX Markets（confirmed_founder）,博士,莫斯科国立大学,Mathematics,其他理工,与创立的先后不明,,同一简介另有新经济学院经济学硕士，低于博士。eFinancialCareers称2001年在莫斯科国立大学完成应用数学硕士，并称博士于2004年完成，该句未写博士授予学校，故不填年份。公司页仅称Dr.，不足为据。活动简介记弱来源。,https://www.rblt.com/emsc-biography/alex-gerko
+Charles Zhengyao Lu,en:charles zhengyao lu,瑞幸咖啡（backfilled_founder）,学士,北京科技大学,industrial electric automation,其他理工,与创立的先后不明,,另有北京大学EMBA（2010），不计为硕士。百度百科写1991年获工学学士学位。两处均为百科，记弱来源。,https://en.wikipedia.org/wiki/Lu_Zhengyao
 Jenny Zhiya Qian,en:jenny zhiya qian,瑞幸咖啡（backfilled_founder）,未核实,,,不适用,不适用,,创办人姓名不全,
 Jinyi Guo,en:jinyi guo,瑞幸咖啡（backfilled_founder）,博士,北京交通大学,transportation planning and management,其他理工,与创立的先后不明,,创办人姓名不全,https://investor.luckincoffee.com/corporate-governance/board-of-directors/
 Justas Janauskas,en:justas janauskas,Vinted（confirmed_founder）,硕士,维尔纽斯大学,informatics,计算机与电子,与创立的先后不明,,,https://www.15min.lt/verslas/naujiena/bendroves/vienas-is-vinted-kureju-nuo-it-studento-iki-sekmingo-startuolio-vadovo-663-652131
 Milda Mitkute,en:milda mitkute,Vinted（confirmed_founder）,未核实,,,不适用,不适用,,访谈只确认入读维尔纽斯大学考纳斯学院并修读文化管理，未写取得学位,
-Edward Kim,en:edward kim,Gusto（confirmed_founder）,未核实,,,不适用,不适用,,页面写Josh and Eddie went to Stanford EE，未写完成学位,
+Edward Kim,en:edward kim,Gusto（confirmed_founder）,硕士,斯坦福大学,electrical engineering,计算机与电子,与创立的先后不明,,同一句写明学士与硕士均已取得，取硕士。Fintech NerdCon简介有同一句。未见毕业年份。两份均为第三方简介，记弱来源。,https://goldhouse.org/people/edward-kim-2/
 Joshua Reeves,en:joshua reeves,Gusto（confirmed_founder）,硕士,斯坦福大学,electrical engineering,计算机与电子,与创立的先后不明,,同一页写Founded: 2011，并写2012年以ZenPayroll上线,https://stvp.stanford.edu/people/joshua-reeves
-Tomer London,en:tomer london,Gusto（confirmed_founder）,未核实,,,不适用,不适用,,自述赴斯坦福电子工程博士项目，未见结业或已完成学位,
+Tomer London,en:tomer london,Gusto（confirmed_founder）,硕士,斯坦福大学,Electrical Engineering,计算机与电子,与创立的先后不明,斯坦福电子工程博士项目退学，不记博士。,简介另写持有以色列理工学院计算机工程学士，低于该硕士。未见硕士年份。人物简介记弱来源。退学句见 https://review.firstround.com/gustos-path-to-product-market-fit-newsletter/ ：He's recently dropped out of an electrical engineering PhD program at Stanford.,https://www.huffpost.com/author/gusto-316
 Doug Lambert,en:doug lambert,Saronic Technologies（confirmed_founder）,硕士,达特茅斯学院,Engineering Management,其他理工,与创立的先后不明,,,https://www.saronic.com/team
-Dino Mavrookas,en:dino mavrookas,Saronic Technologies（confirmed_founder）,未核实,,,不适用,不适用,,,
+Dino Mavrookas,en:dino mavrookas,Saronic Technologies（confirmed_founder）,学士,罗格斯大学,Computer Engineering,计算机与电子,与创立的先后不明,,另有沃顿金融MBA，不计入。本条层次取BASc。创立年这页没写。,https://m2mag.co.uk/dino-mavrookas/
 Rob Lehman,en:rob lehman,Saronic Technologies（confirmed_founder）,学士,宾夕法尼亚州立大学,International Politics,人文社科与法学,与创立的先后不明,,,https://www.saronic.com/team
 Vibhav Altekar,en:vibhav altekar,Saronic Technologies（confirmed_founder）,未核实,,,不适用,不适用,,榜上写作Vibhav Atlekar，官网为Vibhav Altekar；官网仅写studied Electrical Engineering，未写取得学位,
 Guillermo Rauch,en:guillermo rauch,Vercel（confirmed_founder）,高中及以下,,,不适用,早于或同年创立,,访谈写离开高中且发生在创立Vercel之前，未见高等教育学位,https://www.forbes.com/sites/brucerogers/2021/10/18/guillermo-rauch-creates-vercel-to-make-websites-better-and-faster/
-Yotam Segev,en:yotam segev,Cyera（confirmed_founder）,未核实,,,不适用,不适用,,,
-Tamar Bar-Ilan,en:tamar bar-ilan,Cyera（confirmed_founder）,未核实,,,不适用,不适用,,,
+Yotam Segev,en:yotam segev,Cyera（confirmed_founder）,学士,耶路撒冷希伯来大学,computer science and physics,专业不明,早于或同年创立,,同一学士含计算机科学与物理，分属计算机与电子和其他理工，不拆开归类。学位年份2010-2013来自已打开的领英，杂志原句未写年份。另有Mandel Leadership Institute项目，未写硕士或博士，不抬高学历。,https://www.cyberdefensemagazine.com/newsletters/november-2022/files/basic-html/page134.html
+Tamar Bar-Ilan,en:tamar bar-ilan,Cyera（confirmed_founder）,学士,耶路撒冷希伯来大学,Physics and Computer Science,专业不明,早于或同年创立,,同一学士含物理学与计算机科学，不拆开归类。未见公司官网或学校页写明该学位。领英教育栏被遮蔽。两份第三方简介都写希伯来大学物理学与计算机科学学士，完成于2013年。,https://newyorktech.com/people/tamar-bar-ilan
 Anthony Wood,en:anthony wood,Grafana Labs（confirmed_founder）,未核实,,,不适用,不适用,,榜上写作Anthony Woods，官网为Anthony Wood；官网未写公司成立年,
 Raj Dutt,en:raj dutt,Grafana Labs（confirmed_founder）,未核实,,,不适用,不适用,,官网未写公司成立年,
 Torkel Ödegaard,en:torkel ödegaard,Grafana Labs（confirmed_founder）,未核实,,,不适用,不适用,,官网写2013年12月Torkel创建开源工具Grafana，未写公司成立年,
-Shayne Coplan,en:shayne coplan,Polymarket（confirmed_founder）,未核实,,,不适用,不适用,,Fortune 报道称其为创办人。该文没有可用的学历原句。,
+Shayne Coplan,en:shayne coplan,Polymarket（confirmed_founder）,未完成高等教育,纽约大学,computer science,计算机与电子,与创立的先后不明,,2017年第二学期从纽约大学计算机科学专业退学。这句没有公司创立年。,https://www.forbes.com/sites/ninabambysheva/2024/07/31/meet-the-26-year-old-building-a-billion-dollar-prediction-marketplace/
 Amjad Masad,en:amjad masad,Replit（confirmed_founder）,未核实,,,不适用,不适用,,,
 Haya Odeh,en:haya odeh,Replit（confirmed_founder）,未核实,,,不适用,不适用,,,
 David Hindawi,en:david hindawi,Tanium（confirmed_founder）,博士,加州大学伯克利分校,Operations Research,其他理工,与创立的先后不明,,,https://www.tanium.com/leadership/david-hindawi
-Orion Hindawi,en:orion hindawi,Tanium（confirmed_founder）,未核实,,,不适用,不适用,,页眉写Co-founder and CEO，正文写executive chairman；官网未写学历,
+Orion Hindawi,en:orion hindawi,Tanium（confirmed_founder）,未完成高等教育,加州大学伯克利分校,,专业不明,早于或同年创立,,1998年以新生身份从加州大学伯克利分校退学，早于2007年创立Tanium。原句未写专业。,https://www.geekwire.com/2020/tech-ceo-moves-9b-cybersecurity-companys-hq-seattle-area-says-san-francisco-not-city-20-years-ago/
 李素金（Lee Su-jin）,zh:李素金,Yanolja（confirmed_founder）,未核实,,,不适用,不适用,,访谈写Cheonan Technical College取得mold engineering学位，未写学位层次；另述2005年收购、2006年更名，未单列创立年,https://ftp.forbesmiddleeast.com/billionaires/world-billionaires/meet-the-hard-charging-billionaire-who-built-south-koreas-ai-driven-travel-platform-yanolja-1
 Nithin Kamath,en:nithin kamath,Zerodha（confirmed_founder）,未核实,,,不适用,不适用,,访谈写finished his engineering degree from the Bangalore Institute of Technology，未写学士或硕士,https://yourstory.com/2019/07/mavericks-nithin-kamath-zerodha-stock-broking-startup
-Nikhil Kamath,en:nikhil kamath,Zerodha（confirmed_founder）,未核实,,,不适用,不适用,,,
+Nikhil Kamath,en:nikhil kamath,Zerodha（confirmed_founder）,高中及以下,,,,与创立的先后不明,,10年级、16岁后离开学校，没有写出具体学校名，故不计入学校次数。,https://www.aljazeera.com/economy/2021/9/13/from-dropout-to-fintech-disruptor-zerodhas-nikhil-kamath
